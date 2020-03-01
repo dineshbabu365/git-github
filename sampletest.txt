@@ -4,4 +4,10 @@ I am a developer
 
 im also a tester.
 
+<<<<<<< HEAD
 im also supporter.
+=======
+im also supporter.
+
+im aslo gamer.
+>>>>>>> develop
