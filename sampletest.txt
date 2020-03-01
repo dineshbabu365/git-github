@@ -6,4 +6,8 @@ im also a tester.
 
 im also supporter.
 
+<<<<<<< HEAD
 im aslo gamer.
+=======
+im aslo gamer and play games very well.
+>>>>>>> develop
